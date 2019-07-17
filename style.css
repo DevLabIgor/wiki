@@ -29,9 +29,11 @@ li a {
 ol li a{
     color: black;
     padding: 5px 10px;
+    background-color: #ccc;
+    border-radius: 5px;
 }
 ol li a:hover {
-  background-color: #ccc;
+  background-color: #4CAF50;
 }
 /* Change the link color to #111 (black) on hover */
 li a:hover {
